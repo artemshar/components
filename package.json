@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/artemshar"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Artem Shar",
   "license": "ISC",
   "description": "React component library",
