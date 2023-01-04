@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/artemshar"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Artem Shar",
   "license": "ISC",
   "description": "React component library",
@@ -25,6 +25,7 @@
     "react": "^18.2.0",
     "rollup": "^3.9.1",
     "rollup-plugin-dts": "^5.1.0",
+    "rollup-plugin-postcss": "^4.0.2",
     "tslib": "^2.4.1",
     "typescript": "^4.9.4"
   }

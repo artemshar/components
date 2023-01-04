@@ -1,11 +1,12 @@
 import React from "react";
+import "./Button.css";
 
 export interface ButtonProps {
   label: string;
 }
 
 const Button = (props: ButtonProps) => {
-  return <button style={{padding: '4px 20px', borderRadius: '4px', border: '1px solid #000'}}>{props.label}</button>;
+  return <button>{props.label}</button>;
 };
 
 export default Button;
