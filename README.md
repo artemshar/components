@@ -11,4 +11,4 @@
 }
 ```
 3. ```npm run rollup```
-4. ```npm run rollup```
+4. ```npm publish```
