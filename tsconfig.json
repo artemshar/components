@@ -105,4 +105,8 @@
     "**/*.spec.ts",
     "**/*.test.ts",
   ],
+  "exclude": [
+    "**/*.stories.tsx",
+    "src/stories"
+  ]
 }
