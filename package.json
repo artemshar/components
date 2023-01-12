@@ -1,5 +1,6 @@
 {
   "name": "@artemshar/mulib",
+  "homepage": "https://github.com/artemshar/mulib#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/artemshar"
   },
