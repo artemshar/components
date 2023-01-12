@@ -16,7 +16,8 @@ Then install the library
 ```npm install @artemshar/mulib``` 
 ```yarn add @artemshar/mulib```
 
-And use
+And use components
+
 ```import { Button } from "@artemshar/mulib"```
 
 

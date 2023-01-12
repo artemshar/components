@@ -1,0 +1,25 @@
+.stars {
+  display: flex;
+  width: max-content;
+}
+.icon-star {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  padding-right: 6px;
+  width: calc(100% / 5);
+  width: 24px;
+  height: 24px;
+}
+.icon-star .svg-color-goal {
+  width: 100%;
+  height: 100%;
+  fill: #666666;
+}
+
+@media all and (-ms-high-contrast:none) {
+  *::-ms-backdrop, .stars {
+      height: 15px;
+  } /* fix to IE11 */
+}
