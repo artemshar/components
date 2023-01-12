@@ -18,5 +18,5 @@ RatingStarsExample1.args = {
 export const RatingStarsExample2 = Template.bind({});
 RatingStarsExample2.storyName = "Rating = 2.5 Stars"
 RatingStarsExample2.args = {
-  num: "-2.5",
+  num: "2.5",
 };
